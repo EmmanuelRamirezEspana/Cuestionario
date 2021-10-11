@@ -3,15 +3,23 @@ Emmanuel Ramirez España Cervantes
 1.- En tus palabras ¿Que es Internet?
 
 2.- Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+R.- Los medios físicos utilizados para transmitir informacion son formas de transmitir información de una forma física sin utililzar
+    ondas transportadas libremente, ejemplos son cables ethernet o conexiones alambricas a los servidores.
 
 3.- ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
 
 4.- Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+R.- Es un procedimiento en el cual se utilizan servidores, estos mandan y regresan información a la hora de publicar una canción,
+    reproducirla y de regreso, tu telefono envia información y los servidores regresan información.
 
 5.- Describe los protocolos que existen en internet, en específico HTTP y HTML
 
 6.- En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+R.- La encriptación es un metodo de codificar, esta cambia el texto normal a una forma alternativa codificada y las llaves públicas
+    es un metodo de encriptado asimetrico que usa "llaves" diferentes para el encriptado y desencriptado
 
 7.- En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
 
 8.- ¿Cómo funciona la búsqueda de google?
+R.- Las paginas y la información se guarda automaticamente en un "listado", este a la hora de buscar es consultado y la información
+    de esta lista es mandada al dispositivo ya ordenado
