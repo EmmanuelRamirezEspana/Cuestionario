@@ -13,7 +13,7 @@ R.- Es un procedimiento en el cual se utilizan servidores, estos mandan y regres
     reproducirla y de regreso, tu telefono envia información y los servidores regresan información.
 
 5.- Describe los protocolos que existen en internet, en específico HTTP y HTML
-
+Atghfdfghdfghdfhdfghd dfghdfghd 
 6.- En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
 R.- La encriptación es un metodo de codificar, esta cambia el texto normal a una forma alternativa codificada y las llaves públicas
     es un metodo de encriptado asimetrico que usa "llaves" diferentes para el encriptado y desencriptado
